@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blockhost/static/css/main.6f96a42e.css",
-    "main.js": "/blockhost/static/js/main.e05cec99.js",
-    "static/js/453.258b012d.chunk.js": "/blockhost/static/js/453.258b012d.chunk.js",
-    "static/media/index.cjs": "/blockhost/static/media/index.720d13936a625d158fd6.cjs",
-    "index.html": "/blockhost/index.html",
-    "main.6f96a42e.css.map": "/blockhost/static/css/main.6f96a42e.css.map",
-    "main.e05cec99.js.map": "/blockhost/static/js/main.e05cec99.js.map",
-    "453.258b012d.chunk.js.map": "/blockhost/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/BlocHost/static/css/main.6f96a42e.css",
+    "main.js": "/BlocHost/static/js/main.7702e703.js",
+    "static/js/453.258b012d.chunk.js": "/BlocHost/static/js/453.258b012d.chunk.js",
+    "static/media/index.cjs": "/BlocHost/static/media/index.720d13936a625d158fd6.cjs",
+    "index.html": "/BlocHost/index.html",
+    "main.6f96a42e.css.map": "/BlocHost/static/css/main.6f96a42e.css.map",
+    "main.7702e703.js.map": "/BlocHost/static/js/main.7702e703.js.map",
+    "453.258b012d.chunk.js.map": "/BlocHost/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f96a42e.css",
-    "static/js/main.e05cec99.js"
+    "static/js/main.7702e703.js"
   ]
 }
